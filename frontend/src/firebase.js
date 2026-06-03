@@ -3,7 +3,7 @@ import { getAuth } from "firebase/auth"
 import { getFirestore } from "firebase/firestore"
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDstYKIKJUIVCrtXLV6YwugmGs8NaSz8rE",
+  apiKey: "YOUR FIREBASE API KEY",
   authDomain: "inbox-d9304.firebaseapp.com",
   projectId: "inbox-d9304",
   storageBucket: "inbox-d9304.firebasestorage.app",
