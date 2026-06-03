@@ -1,0 +1,16 @@
+position,company,location,Job Description,industry,type,url
+Software Engineer Intern,Google,Bangalore,Python Java React Machine Learning AI development engineering,Technology,internship,https://careers.google.com
+Data Science Intern,Microsoft,Hyderabad,Python Machine Learning Data Analysis SQL TensorFlow AI models,Technology,internship,https://careers.microsoft.com
+Full Stack Developer,Infosys,Chennai,React Node.js FastAPI Python JavaScript HTML CSS MongoDB,Technology,job,https://infosys.com/careers
+ML Engineer,Amazon,Bangalore,Python TensorFlow PyTorch Deep Learning NLP Computer Vision AWS,Technology,job,https://amazon.jobs
+Frontend Developer Intern,Zoho,Chennai,React JavaScript HTML CSS Tailwind UI UX Figma,Technology,internship,https://zoho.com/careers
+Backend Developer,TCS,Mumbai,Java Python FastAPI REST API SQL PostgreSQL Docker,Technology,job,https://tcs.com/careers
+AI Research Intern,OpenAI,Remote,Python Deep Learning NLP Transformers BERT Research Papers,Technology,internship,https://openai.com/careers
+Data Analyst,Wipro,Pune,SQL Python Pandas Excel Power BI Tableau Data Visualization,Technology,job,https://wipro.com/careers
+DevOps Engineer,Flipkart,Bangalore,Docker Kubernetes AWS CI/CD Linux Python Shell Scripting,Technology,job,https://flipkart.com/careers
+React Developer Intern,Startup,Remote,React JavaScript Redux HTML CSS REST API Git GitHub,Technology,internship,https://linkedin.com/jobs
+Computer Vision Intern,Samsung,Bangalore,Python OpenCV TensorFlow Deep Learning Image Processing,Technology,internship,https://samsung.com/careers
+NLP Engineer,IBM,Hyderabad,Python NLP BERT Transformers Hugging Face Text Classification,Technology,job,https://ibm.com/careers
+Cloud Engineer,Accenture,Chennai,AWS Azure GCP Docker Kubernetes Python DevOps,Technology,job,https://accenture.com/careers
+Android Developer,Paytm,Noida,Kotlin Java Android Studio REST API Firebase Mobile Development,Technology,job,https://paytm.com/careers
+Cybersecurity Intern,KPMG,Bangalore,Network Security Python Ethical Hacking Penetration Testing,Technology,internship,https://kpmg.com/careers

@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+pandas
+scikit-learn
+numpy
+pypdf2
+python-multipart
+requests
+google-genai
+firebase-admin
+websockets
