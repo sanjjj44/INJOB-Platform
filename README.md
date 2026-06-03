@@ -24,6 +24,32 @@
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+  <img src="screenshots/1.png" alt="Dashboard" width="800"/>
+  <br/>
+  <em>Main Dashboard & Intelligence Suite</em>
+  <br/><br/>
+  <img src="screenshots/2.png" alt="Job Search" width="800"/>
+  <br/>
+  <em>AI Job Search & Resume Upload</em>
+  <br/><br/>
+  <img src="screenshots/3.png" alt="Threat Scanner" width="800"/>
+  <br/>
+  <em>Universal Threat & Phishing Scanner</em>
+  <br/><br/>
+  <img src="screenshots/4.png" alt="Resume Builder" width="800"/>
+  <br/>
+  <em>Neural Asset (Resume) Builder</em>
+  <br/><br/>
+  <img src="screenshots/5.png" alt="Community" width="800"/>
+  <br/>
+  <em>Community Feed & Insights</em>
+</div>
+
+---
+
 ## 🛠️ Technology Stack
 
 ### Frontend
